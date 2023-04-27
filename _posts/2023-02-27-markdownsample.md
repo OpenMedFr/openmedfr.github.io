@@ -2,7 +2,7 @@
 layout: slide
 title: Markdown Pres
 excerpt: a sample presentation using markdown
-# theme: dracula
+theme: dracula
 transition: convex
 tags: [presentation]
 category: presentation
